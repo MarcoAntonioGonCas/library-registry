@@ -1042,7 +1042,7 @@ https://github.com/BestModules-Libraries/BMS36T001
 https://github.com/BestModules-Libraries/BMS56M605
 https://github.com/BestModules-Libraries/BMS81M001
 https://github.com/BestModules-Libraries/BMV23M001
-https://github.com/bestrobotics/ArduinoGizmo
+https://github.com/gizmo-platform/ArduinoGizmo
 https://github.com/Bexin3/GigaScope
 https://github.com/Bexin3/Snowduino
 https://github.com/Bexin3/Speeduino
@@ -4229,6 +4229,7 @@ https://github.com/ohad32/FireBase32
 https://github.com/ojx/GigaAudio
 https://github.com/ojx/HTTPed
 https://github.com/okalachev/mavlink-arduino
+https://github.com/okalachev/flixperiph
 https://github.com/OkbaO/KS0108_LCD
 https://github.com/OkbaO/ST7565_LCD
 https://github.com/OladapoAjala/Drive
@@ -6594,6 +6595,7 @@ https://github.com/YuriiSalimov/YK04_Module
 https://github.com/Yurik72/ESPHap
 https://github.com/yurilopes/SPIFFSIniFile
 https://github.com/YuuichiAkagawa/Arduino-UHS2MIDI
+https://github.com/yuuu/M5StampC3LED
 https://github.com/yyuri/Switch_lib
 https://github.com/Z01NE/MyAlarm
 https://github.com/z3t0/Arduino-IRremote
@@ -6763,7 +6765,7 @@ https://github.com/RaffaeleMorganti/protectedAES
 https://github.com/WitsanuP/WitsanuDotH
 https://github.com/blackhack/LittleVector
 https://github.com/ALICHOUCHENE/Qmi8658c
-https://github.com/zumatt/Supabase-ESP32
+https://github.com/zumatt/Supabase-Arduino
 https://github.com/deangi/TiltSensor
 https://github.com/deangi/UltrasonicSensor
 https://github.com/deangi/RCWL0516
